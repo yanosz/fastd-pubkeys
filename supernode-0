@@ -1,0 +1,5 @@
+key "10bcbc87dc64d8d265fdceb3466d329c747601979875729ad97aae611b657215";
+remote ipv4 "supernode-0.test" port 10000;
+remote ipv6 "supernode-0.test" port 10000;
+
+
